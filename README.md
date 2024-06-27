@@ -19,7 +19,7 @@ Bem-vindo ao Screen Sound! Este é um projeto simples em C# que permite registra
 
 ```
 
-git clone https://github.com/seu-usuario/screen-sound.git
+git clone https://github.com/GiovanneBohms/HelloWorldCSharp.git
 ```
 
 
